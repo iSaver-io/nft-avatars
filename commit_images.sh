@@ -4,7 +4,7 @@
 DIR="/Users/golubev/web3/nft-generator/output"
 
 # Количество файлов для одного коммита
-CHUNK_SIZE=50
+CHUNK_SIZE=40
 
 # Переменная для подсчета номера коммита
 COMMIT_NUM=1
