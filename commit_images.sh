@@ -16,7 +16,7 @@ CALLING_DIR=$(pwd)
 function commit_files {
   git add .
   git commit -m "Adding images batch $COMMIT_NUM"
-  git push origin main
+  git push origin episode-2
   ((COMMIT_NUM++))
 }
 
